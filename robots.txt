@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quijoul.rogertakesahike.com/sitemap.xml
